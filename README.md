@@ -16,6 +16,7 @@ These tools have enabled me to build robust and scalable applications efficientl
 
 With experience in: 
 - ⚛️ React.js
+- 💻 C# / TypeScript
 - 💾 Databases: MySQL
 - 🛠 Testing: Unit & Integration Testing, TDD methods
 - 🖥 Frameworks: MVC
