@@ -5,7 +5,7 @@
 -  I've gained extensive experience using modern developer tools and frameworks.
 ##  Front-end
 - For Front-end development, I've utilized React and TypeScript, leveraging Vite for efficient project setup and build processes.
-- Tailwind CSS has been my go-to for rapid UI development with its utility-first approach.
+- Tailwind CSS has been my go-to for rapid UI development.
 - To enhance UI components, I've used shadcn/ui, and for efficient data handling, I've relied on TanStack Query.
 - Navigation and routing have been streamlined with TanStack Router.
 
