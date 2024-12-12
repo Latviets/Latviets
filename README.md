@@ -3,6 +3,7 @@
 - ⚡ I'm software developer who loves solving complex problems with simple, effective solutions.
 -  I chose to become a developer because it's a fascinating and ever-evolving field that offers the chance to create something new for the world and also work on personal ideas and products.
 -  I've gained extensive experience using modern developer tools and frameworks.
+-  ## C#, TypeScript, CSS, JavaScript
 ##  Front-end
 - For Front-end development, I've utilized React and TypeScript, leveraging Vite for efficient project setup and build processes.
 - Tailwind CSS has been my go-to for rapid UI development.
