@@ -10,6 +10,7 @@
 - To enhance UI components, I've used shadcn/ui, and for efficient data handling, I've relied on TanStack Query.
 - Navigation and routing have been streamlined with TanStack Router.
 - Playwright has been used to automate the build and testing process.
+- Bootstrap 5 for styling.
 
 ## Back-end
 On the backend, json-server has been essential for creating mock APIs for testing. For end-to-end testing, I've used Playwright to ensure cross-browser functionality. Additionally, I've set up GitHub Actions for continuous integration and delivery, automating builds and tests to maintain code quality.
