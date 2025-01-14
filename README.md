@@ -15,9 +15,9 @@ On the backend, json-server has been essential for creating mock APIs for testin
 These tools have enabled me to build robust and scalable applications efficiently.
 
 With experience in: 
-- ⚛️ React.js
+- ⚛️ React.js (with Vite)
 - 💻 C# / TypeScript / JavaScript
-- 💾 Databases: MySQL
+- 💾 Databases: MySQL, SQL Server
 - 🛠 Testing: Unit & Integration Testing, TDD methods
 - 🖥 Frameworks: ASP.NET Core MVC
 - 📐 Design Principles: SOLID, KISS, DRY, and other design patterns
