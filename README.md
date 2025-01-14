@@ -20,7 +20,7 @@ With experience in:
 - ⚛️ React.js (with Vite)
 - 💻 C# / TypeScript / JavaScript
 - 💾 Databases: MySQL, SQL Server
-- 🛠 Testing: Unit & Integration Testing, TDD methods
+- 🛠 Testing: Unit & END-to-END Testing, TDD methods
 - 🖥 Frameworks: ASP.NET Core MVC
 - 📐 Design Principles: SOLID, KISS, DRY, and other design patterns
 - 📊 Version Control: GIT
