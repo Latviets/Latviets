@@ -27,7 +27,7 @@
 - Problem solving: analytical thinking, debugging, ability to plan and organize time and tasks.
 - Communication: Clear, concise coding comments and documentation
 - Teamwork: Ability to work in a team and individually to solveproblems.
-- Adaptability: Creativity, initiative and dedication to continuous learning and quickly adapt to new technologies.
+- Adaptability: Creativity, initiative and dedication to continuous learning and ability to quickly adapt to new technologies.
 
 ## Back-end
 On the backend, json-server has been essential for creating mock APIs for testing.
