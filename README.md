@@ -5,20 +5,19 @@
 -  My dedication to my work and eagerness to continuously learn make me confident in my ability to quickly master any new technologies, techniques, or tools needed to accomplish any new task.
 -  ## C#, TypeScript, CSS, JavaScript, HTML
 
-## Technical skills
-### Back-End:
-- 💻 Programming languages: C#, JavaScript, TypeScript
-- 🖥 Frameworks: ASP.NET MVC and other
-- 🛠 Testing: Unit, End-to-End testing, TDD
-- 📐 Design principles: SOLID, KISS, DRY
-- 🌐 API: RESTful API
-  
-- 💾 Databases: MySQL, SQL Server
+## 💻 Technical skills
+### 💾 Back-End:
+- Programming languages: C#, JavaScript, TypeScript
+- Frameworks: ASP.NET MVC and other
+- Testing: Unit, End-to-End testing, TDD
+- Design principles: SOLID, KISS, DRY
+- API: RESTful API
+- Databases: MySQL, SQL Server
 - Development Tools: Visual Studio, VS Code, Cursor
 - Version control: CI/CD GIT
   
-### Front-End:
-- ⚛️ React + TypeScript (with Vite)
+### ⚛️ Front-End:
+- React + TypeScript (with Vite)
 - HTML & Tailwind CSS
 - TanStack Query & TanStack Router
 - Playwright, Bootstrap
