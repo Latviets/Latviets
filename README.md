@@ -6,7 +6,7 @@
 -  ## C#, TypeScript, CSS, JavaScript, HTML
 
 ## 💻 Technical skills
-### 💾 Back-End:
+### 🛠 Back-End:
 - Programming languages: C#, JavaScript, TypeScript
 - Frameworks: ASP.NET MVC and other
 - Testing: Unit, End-to-End testing, TDD
