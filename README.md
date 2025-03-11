@@ -26,24 +26,21 @@
 - Frameworks: ASP.NET MVC, Entity Framework Core and other
 - Testing: Unit, End-to-End testing, TDD
 - Design principles: SOLID, KISS, DRY
-- API: RESTful API
-- Databases: MySQL, SQL Server
-- Development Tools: Visual Studio, VS Code, Cursor
-- Version control: CI/CD GIT
-  
-- - On the backend, json-server has been essential for creating mock APIs for testing. For end-to-end testing, I've used Playwright to ensure cross-browser functionality. Additionally, I've set up GitHub Actions for continuous integration and delivery, automating builds and tests to maintain code quality. These tools have enabled me to build robust and scalable applications efficiently.
-  
+- API Development: RESTful APIs
+ 
 ### ⚛️ Front-End:
-- React + TypeScript (with Vite)
-- HTML & Tailwind CSS
-- TanStack Query & TanStack Router
-- Playwright, Bootstrap
-
-- - For Front-end development, I've utilized React and TypeScript, leveraging Vite for efficient project setup and build processes. Tailwind CSS has been my go-to for rapid UI development. To enhance UI components, I've used shadcn/ui, and for efficient data handling, I've relied on TanStack Query. Navigation and routing have been streamlined with TanStack Router. Playwright has been used to automate the build and testing process. Bootstrap 5 for styling.
+- React with TypeScript (using Vite), HTML, Tailwind CSS
+- TanStack Query & Router, Playwright, Bootstrap
+### Databases: 
+- MySQL, SQL Server
+### Development Tools: 
+- Visual Studio, VS Code, Cursor
+### Version Control & CI/CD
+- Git, Continuous Integration/Continuous Deployment (CI/CD)
   
 # Soft Skills:
-- Problem solving: analytical thinking, debugging, ability to plan and organize time and tasks.
-- Communication: Clear, concise coding comments and documentation
-- Teamwork: Ability to work in a team and individually to solveproblems.
-- Adaptability: Creativity, initiative and dedication to continuous learning and ability to quickly adapt to new technologies.
-
+- Problem-Solving: Demonstrated analytical thinking and advanced debugging skills to identify and resolve complex technical issues efficiently. Skilled in planning and organizing time and tasks to meet project deadlines.
+- Communication: Adept at providing clear and concise code documentation and comments, ensuring seamless collaboration and understanding among team members.
+- Teamwork: Proven ability to work effectively both in collaborative team settings and independently to address challenges and deliver solutions.
+- Adaptability: Showcases creativity, initiative, and a commitment to continuous learning, quickly embracing new technologies and evolving workflows with ease.
+- Efficiency and Accuracy: Maintains high standards of precision and productivity, even in dynamic and fast-paced environments.
